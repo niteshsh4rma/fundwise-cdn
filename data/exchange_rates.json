@@ -2,7 +2,7 @@
     "success": true,
     "terms": "https://currencylayer.com/terms",
     "privacy": "https://currencylayer.com/privacy",
-    "timestamp": 1755332536,
+    "timestamp": 1755361216,
     "source": "USD",
     "quotes": {
         "USDAED": 3.67295,
@@ -34,7 +34,7 @@
         "USDBZD": 2.00793,
         "USDCAD": 1.38195,
         "USDCDF": 2895.000362,
-        "USDCHF": 0.806742,
+        "USDCHF": 0.806593,
         "USDCLF": 0.024552,
         "USDCLP": 963.170396,
         "USDCNY": 7.182104,
