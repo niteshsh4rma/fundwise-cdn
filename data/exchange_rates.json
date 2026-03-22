@@ -2,7 +2,7 @@
     "success": true,
     "terms": "https://currencylayer.com/terms",
     "privacy": "https://currencylayer.com/privacy",
-    "timestamp": 1774109227,
+    "timestamp": 1774139405,
     "source": "USD",
     "quotes": {
         "USDAED": 3.672504,
@@ -164,7 +164,7 @@
         "USDVUV": 119.352434,
         "USDWST": 2.727514,
         "USDXAF": 565.894837,
-        "USDXAG": 0.014693,
+        "USDXAG": 0.01471,
         "USDXAU": 0.000222,
         "USDXCD": 2.70255,
         "USDXCG": 1.799163,
